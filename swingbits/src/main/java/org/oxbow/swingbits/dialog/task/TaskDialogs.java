@@ -61,10 +61,11 @@ import org.oxbow.swingbits.util.Strings;
 import org.oxbow.swingbits.util.swing.AncestorAdapter;
 
 /**
+ * 
  * A set of methods to simplify creation of task dialogs
- *
+ * 
  * @author Eugene Ryzhikov
- *
+ * 
  */
 public final class TaskDialogs {
 
